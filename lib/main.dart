@@ -8,7 +8,10 @@ void main() {
         backgroundColor: Colors.blueGrey,
         appBar: AppBar(
           backgroundColor: Colors.blueGrey[900],
-          title: Text('Eu Sou Rico'),
+          title: Text(
+            'Eu Sou Rico',
+            style: TextStyle(color: Colors.white), // Alterar a cor do texto da appbar
+          ),
         ),
         body: Center(
           child: Image(
