@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="eu_sou_rico_completo_flutter"
+        android:label="Eu sou rico"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
